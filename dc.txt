@@ -1,144 +1,26 @@
-//以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/dc.txt
+//以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dc.txt
         {
     "urls":[
         {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "云星日记"
+            "url": "https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json",
+            "name": "🐴码上时光机1"
         },	
         {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "唐三"
+            "url": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/main.json",
+            "name": "🦄码上时光机2"
         },
         {
-            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风XC"
+            "url": "http://yydsys.top/duo",
+            "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://la.kstore.space/download/3376/001.txt",
-            "name": "001"
-        },
-        {
-            "url": "https://la.kstore.space/download/3376/fns.txt",
-            "name": "fns"
-        },
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/vod/xpg.txt",
-            "name": "苹果盒子"
-        },
-        {
-            "url": "https://www.agit.ai/liucn/box/raw/branch/main/vod/xpg.json",
-            "name": "小苹果"
+            "url": "http://tv.nxog.top/m/ ",
+            "name": "⭕欧歌API"
         },
 
-
-
-        {
-            "url": "https://raw.iqiq.io/liu673cn/ysc/main/ysc.json",
-            "name": "运输车"
-        },	
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "菜妮丝"
-        },
-	    {
-            "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "巧技"
-        },
-	    {
-            "url": "https://jihulab.com/blank7355005/box/-/raw/main/0.json",
-            "name": "小盒酷玩"
-        },
-	    {
-            "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
-            "name": "小胡"
-        },
-	    {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "吾爱评测"
-        },
-
-
-
-
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫"
-        },
-	    {
-            "url": "https://yydsys.top/duo",
-            "name": "大聪明"
-        },
-        {
-            "url": "http://饭太硬.ga/tv",
-            "name": "饭太硬"
-        },
-
-
-	{
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长"
-        },
-        {
-            "url": "http://drpy.site/js1",
-            "name": "小雅js"
-        },
-
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "俊于"
-        },
-
-        {
-            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
-            "name": "香雅情 XYQ"
-        },
-
-        {
-            "url": "https://神器每日推送.tk/pz.json",
-            "name": "神器每日推送"
-        },
-        {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": "FongMi"
-        },
-        {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "霜辉月明py"
-        },
-        {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "高山流云js"
-        },
-
-
-
-        {
-            "url": "https://www.agit.ai/liucn/box/raw/branch/main/m.json",
-            "name": "老刘备"
-        },
-        {
-            "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "胖丫"
-        },
-        {
-            "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/甜蜜.json",
-            "name": "甜蜜dlgt7"
-        },
-        {
-            "url": "https://dxawi.github.io/0/0.json",
-            "name": "dxawi/github️"
-        },
-        {
-            "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "潇洒"
-        },
-        {
-            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
-            "name": "D大"
-        }, 
        {
-            "url": "https://www.agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "ImABC"
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🌥︎云星日记家庭版"
         }
 
 
